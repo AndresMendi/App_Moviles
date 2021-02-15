@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="tvTitulo">BIENVENIDO</string>
+    <string name="etNombre"></string>
+    <string name="etApellido"></string>
+    <string name="etFechaNac"></string>
+    <string name="etFechaIng"></string>
+    <string name="etHorasExtra"></string>
+    <string name="etSueldo"></string>
+    <string name="btCalcular">CALCULAR</string>
+    <string name="btMostrar">MOSTRAR</string>
+    <string name="tvTexto"></string>
+</resources>

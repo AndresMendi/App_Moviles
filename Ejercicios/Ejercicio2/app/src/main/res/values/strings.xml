@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="tvTitulo">CALCULADORA</string>
+    <string name="etNumero1"></string>
+    <string name="etNumero2"></string>
+    <string name="btnSuma"></string>
+    <string name="btnResta"></string>
+    <string name="btnMultiplicacion"></string>
+    <string name="btnDivision"></string>
+    <string name="tvResultadoOpera"></string>
+    <string name="btnBorrar">LIMPIAR</string>
+</resources>

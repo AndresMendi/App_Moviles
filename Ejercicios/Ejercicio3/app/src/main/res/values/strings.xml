@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="tvTitulo">CALCULO DE ECUACIONES EN 2do GRADO</string>
+    <string name="etNumeroA"></string>
+    <string name="etNumeroB"></string>
+    <string name="etNumeroC"></string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnBorrar">Limpiar</string>
+    <string name="tvX0"></string>
+    <string name="tvX1"></string>
+    <string name="tvMensaje"></string>
+</resources>
